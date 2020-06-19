@@ -1,0 +1,204 @@
+41-MAT.usfm: missing space after verse number: (\v 31.).
+Missing verse between: MAT 6:9 and MAT 6:11.
+Bad punctuation at MAT 6:34.
+Bad punctuation at MAT 9:6.
+Unknown USFM token following MAT 10:3.
+Missing verse between: MAT 10:3 and MAT 10:5.
+Empty verse: MAT 10:5.
+Unknown USFM token following MAT 10:5.
+Unknown USFM token following MAT 10:19.
+Unknown USFM token following MAT 10:28.
+Unknown USFM token following MAT 10:32.
+Missing verse between: MAT 10:32 and MAT 10:34.
+Bad punctuation at MAT 12:37.
+Unknown USFM token following MAT 15:16.
+Missing verse between: MAT 15:16 and MAT 15:18.
+Unknown USFM token following MAT 16:24.
+Missing verse between: MAT 16:24 and MAT 16:26.
+Duplicated verse number: MAT 16:28.
+Verse out of order: MAT 18:24 after MAT 18:25.
+Duplicated verse number: MAT 18:27.
+Duplicated verse number: MAT 18:29.
+Duplicated verse number: MAT 18:31.
+Duplicated verse number: MAT 18:33.
+Duplicated verse number: MAT 18:35.
+Duplicated verse number: MAT 19:2.
+Duplicated verse number: MAT 19:4.
+Duplicated verse number: MAT 19:6.
+Verse out of order: MAT 19:8 after MAT 19:9.
+Verse out of order: MAT 19:11 after MAT 19:12.
+Verse out of order: MAT 19:14 after MAT 19:15.
+Duplicated verse number: MAT 19:17.
+Duplicated verse number: MAT 19:19.
+Verse out of order: MAT 19:21 after MAT 19:22.
+Duplicated verse number: MAT 19:24.
+Verse out of order: MAT 19:26 after MAT 19:27.
+Duplicated verse number: MAT 19:30.
+Duplicated verse number: MAT 20:2.
+Duplicated verse number: MAT 20:4.
+Verse out of order: MAT 20:6 after MAT 20:7.
+Verse out of order: MAT 20:9 after MAT 20:10.
+Duplicated verse number: MAT 20:12.
+Duplicated verse number: MAT 20:14.
+Duplicated verse number: MAT 20:16.
+Verse out of order: MAT 20:18 after MAT 20:19.
+Duplicated verse number: MAT 20:21.
+Verse out of order: MAT 20:23 after MAT 20:24.
+Verse out of order: MAT 20:26 after MAT 20:28.
+Verse out of order: MAT 20:30 after MAT 20:31.
+Empty verse: MAT 24:2.
+Unknown USFM token following MAT 24:2.
+Duplicated verse number: MAT 24:2.
+Empty verse: MAT 24:8.
+Unknown USFM token following MAT 24:8.
+Verse out of order: MAT 24:7 after MAT 24:8.
+Empty verse: MAT 24:25.
+Unknown USFM token following MAT 24:25.
+Verse out of order: MAT 24:24 after MAT 24:25.
+Unknown USFM token following MAT 24:30.
+Missing verse between: MAT 24:30 and MAT 24:32.
+Unknown USFM token following MAT 24:49.
+Missing verse between: MAT 24:49 and MAT 24:51.
+Bad punctuation at MAT 26:72.
+42-MRK.usfm: stray text at line 166.
+42-MRK.usfm: stray text at line 550.
+Unknown USFM token following MRK 1:2.
+Missing verse between: MRK 7:26 and MRK 7:28.
+Verse out of order: MRK 7:12 after MRK 7:28.
+Missing verses between: MRK 7:13 and MRK 7:29.
+Missing verse between: MRK 9:6 and MRK 9:8.
+Verse out of order: MRK 9:7 after MRK 9:8.
+Bad punctuation at MRK 11:32.
+43-LUK.usfm: missing space after verse number: (\v 11').
+Verse out of order: LUK 1:37 after LUK 1:38.
+Duplicated verse number: LUK 6:2.
+Unknown USFM token following LUK 10:10.
+Missing verse between: LUK 10:10 and LUK 10:12.
+Unknown USFM token following LUK 12:26.
+Empty verse: JHN 4:8.
+Unknown USFM token following JHN 4:8.
+Verse out of order: JHN 4:7 after JHN 4:8.
+Unknown USFM token following JHN 5:2.
+Empty verse: JHN 8:24.
+Unknown USFM token following JHN 8:24.
+Duplicated verse number: JHN 8:24.
+Empty verse: JHN 9:2.
+Unknown USFM token following JHN 9:2.
+Duplicated verse number: JHN 9:2.
+Empty verse: JHN 9:9.
+Unknown USFM token following JHN 9:9.
+Duplicated verse number: JHN 9:9.
+Unknown USFM token following JHN 9:19.
+Missing verse between: JHN 9:19 and JHN 9:21.
+Unknown USFM token following JHN 9:40.
+Chapter should have 41 verses: JHN 9:40.
+Bad punctuation at JHN 13:25.
+Unknown USFM token following JHN 14:2.
+Missing verse between: JHN 14:2 and JHN 14:4.
+Empty verse: JHN 16:2.
+Unknown USFM token following JHN 16:2.
+Duplicated verse number: JHN 16:2.
+Empty verse: JHN 20:23.
+Unknown USFM token following JHN 20:23.
+Verse out of order: JHN 20:22 after JHN 20:23.
+Bad punctuation at JHN 21:16.
+45-ACT.usfm: missing space after verse number: (\v 21.).
+45-ACT.usfm: missing space after verse number: (\v 24.).
+45-ACT.usfm: missing space after verse number: (\v 27,).
+Missing verse between: ACT 1:5 and ACT 1:7.
+Empty verse: ACT 1:7.
+Empty verse: ACT 1:8.
+Verse out of order: ACT 1:6 after ACT 1:8.
+Unknown USFM token following ACT 2:7.
+Duplicated verse number: ACT 2:7.
+Unknown USFM token following ACT 2:20.
+Missing verse between: ACT 2:20 and ACT 2:22.
+Bad punctuation at ACT 3:13.
+Missing verse between: ACT 4:3 and ACT 4:5.
+Bad punctuation at ACT 8:18.
+Verse out of order: ACT 8:21 after ACT 8:23.
+Missing verse between: ACT 9:3 and ACT 9:5.
+Missing verse between: ACT 9:5 and ACT 9:7.
+Bad punctuation at ACT 9:15.
+Bad punctuation at ACT 10:23.
+Bad punctuation at ACT 15:40.
+Unknown USFM token following ACT 17:23.
+Missing verse between: ACT 17:23 and ACT 17:25.
+Unknown USFM token following ACT 20:26.
+Missing verse between: ACT 20:26 and ACT 20:28.
+Bad punctuation at ACT 22:1.
+Bad punctuation at ACT 22:26.
+Empty verse: ACT 23:13.
+Unknown USFM token following ACT 23:13.
+Duplicated verse number: ACT 23:13.
+Empty verse: ACT 23:35.
+Unknown USFM token following ACT 23:35.
+Duplicated verse number: ACT 23:35.
+Bad punctuation at ROM 1:29.
+Missing verse between: ROM 4:7 and ROM 4:9.
+Bad punctuation at ROM 4:18.
+Bad punctuation at ROM 10:5.
+Bad punctuation at ROM 10:18.
+Bad punctuation at ROM 13:10.
+Bad punctuation at ROM 15:1.
+Bad punctuation at ROM 15:33.
+Verse out of order: 1CO 1:15 after 1CO 1:16.
+Duplicated verse number: 1CO 1:31.
+Duplicated verse number: 1CO 4:9.
+Duplicated verse number: 1CO 9:2.
+Verse out of order: 1CO 9:4 after 1CO 9:6.
+Duplicated verse number: 1CO 9:8.
+Duplicated verse number: 1CO 9:16.
+Verse out of order: 1CO 9:22 after 1CO 9:23.
+48-2CO.usfm: missing space after verse number: (\v 3,).
+48-2CO.usfm: missing space after verse number: (\v 4,).
+48-2CO.usfm: missing space after verse number: (\v 14.).
+48-2CO.usfm: missing space after verse number: (\v 1,).
+Unknown USFM token following 2CO 4:2.
+Missing verse between: 2CO 4:2 and 2CO 4:4.
+Bad punctuation at 2CO 5:1.
+Unknown USFM token following 2CO 5:3.
+Missing verse between: 2CO 5:3 and 2CO 5:5.
+Unknown USFM token following 2CO 6:13.
+Missing verse between: 2CO 6:13 and 2CO 6:15.
+Unknown USFM token following 2CO 7.
+Missing verse between: 2CO 7 and 2CO 7:2.
+Bad punctuation at 2CO 11:7.
+Missing verse between: GAL 2:19 and GAL 2:21.
+Verse out of order: GAL 2:20 after GAL 2:21.
+Chapter should have 21 verses: GAL 2:20.
+52-COL.usfm: missing space after verse number: (\v 8.).
+Verse out of order: COL 2:11 after COL 2:12.
+Unknown USFM token following COL 4:7.
+Missing verse between: COL 4:7 and COL 4:9.
+Missing verse between: 1TI 5:18 and 1TI 5:20.
+Verse out of order: 1TI 5:19 after 1TI 5:20.
+No non-English book title for TIT.
+Bad punctuation at HEB 1:5.
+Verse out of order: HEB 2:17 after HEB 2:18.
+Unknown USFM token following HEB 3:2.
+Missing verse between: HEB 3:2 and HEB 3:4.
+Duplicated verse number: HEB 8:5.
+Missing verse between: HEB 8:5 and HEB 8:7.
+Empty verse: HEB 9:24.
+Unknown USFM token following HEB 9:24.
+Duplicated verse number: HEB 9:24.
+Missing verse between: HEB 11:18 and HEB 11:20.
+Unknown USFM token following HEB 12:27.
+Missing verse between: HEB 12:27 and HEB 12:29.
+Missing verse between: JAS 4:5 and JAS 4:7.
+Verse out of order: JAS 4:6 after JAS 4:7.
+Bad punctuation at 2PE 1:15.
+63-1JN.usfm: missing space after verse number: (\v 4.).
+63-1JN.usfm: missing space after verse number: (\v 8.).
+Unknown USFM token following 1JN 2:3.
+Missing verse between: 1JN 2:3 and 1JN 2:5.
+Unknown USFM token following 1JN 2:7.
+Missing verse between: 1JN 2:7 and 1JN 2:9.
+67-REV.usfm: stray text at line 246.
+Missing verse between: REV 2:6 and REV 2:8.
+Bad punctuation at REV 6:8.
+Duplicated verse number: REV 10:4.
+Duplicated verse number: REV 16:16.
+Verse out of order: REV 21:12 after REV 21:13.
+Bad punctuation at REV 22:19.
